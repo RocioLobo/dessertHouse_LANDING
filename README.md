@@ -4,4 +4,9 @@
 
  ## que podras hacer con mi app (casos de uso)
 
+ - registrarse e iniciar sesion
+ - seleccionar opcion de acuerdo al idioma
+ -
+ -
+
 
