@@ -10,3 +10,20 @@
  -
 
 
+## Tecnologias
+flet
+reflex
+GitHub
+Trello
+https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acaca1812d1d6BF89DAD6/desserthouse
+Figma
+TikTok
+
+## Arquitectura
+
+Arquitectura limpia
+Arquitectura mvc
+
+
+## Metodologia de trabajo
+LEAN
