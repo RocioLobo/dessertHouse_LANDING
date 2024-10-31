@@ -6,8 +6,10 @@
 
  - registrarse e iniciar sesion
  - seleccionar opcion de acuerdo al idioma
- -
- -
+ - seleccionar opcion de  tipos recetas de postres
+ - seleccion de opcion de consejos ,extras,sin horno
+ - visualizacion de acuerdo a la seleccion de recetas
+ 
 
 
 ## Tecnologias
