@@ -10,7 +10,7 @@ Muchas personas quieren aprender a preparar postres ,pero al momento de buscar r
  donde te mostraran opciones de acuerdo a tu idioma y como tambien opciones de postres a elegir como :postres  frios , rapidos faciles consejos y extras  y sin horno que se abarcaran mas en  postres con ingredientes de casa a la vez con  ingredientes generales, y como tambien podra actualizarse permanente  de acuerdo a las novedades y temporadas del año.
 
 
- ## que podras hacer con mi app (casos de uso)
+ ##  mi app (casos de uso)
 
 ### ADMINISTRADOR
 
