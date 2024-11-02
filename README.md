@@ -14,10 +14,10 @@ Muchas personas quieren aprender a preparar postres ,pero al momento de buscar r
 
 ### ADMINISTRADOR
 
--registrarse e iniciar sesion
--visualizacion de panel de administracion
--opciones de acceso a cada rol
--opciones de botones de acuerdo al rol
+- registrarse e iniciar sesion
+- visualizacion de panel de administracion
+- opciones de acceso a cada rol
+- opciones de botones de acuerdo al rol
 
 ### USUARIO
  - registrarse e iniciar sesion
