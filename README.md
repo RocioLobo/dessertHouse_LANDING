@@ -54,6 +54,10 @@ https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acac
 - TikTok
 - Notion
 
+- dbdiagram:
+
+https://dbdiagram.io/d/67257082b1b39dd85837eeff
+
 - Exalidraw:
 
 https://excalidraw.com/#json=XvrhCJElDojUkaAV1q_36,BgwxCh6Izm36bcbgsHIgiw
