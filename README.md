@@ -22,6 +22,7 @@ Muchas personas quieren aprender a preparar postres ,pero al momento de buscar r
 ### USUARIO
  - registrarse e iniciar sesion
  - seleccionar opcion de acuerdo al idioma
+ - visualizacion de categorias de postres
  - seleccionar opcion de  tipos de recetas de postres
  - seleccion de opcion de consejos ,extras,notifcicaciones
  - visualizacion de acuerdo a la seleccion de recetas
@@ -29,15 +30,33 @@ Muchas personas quieren aprender a preparar postres ,pero al momento de buscar r
 
 
 ## Tecnologias
-flet
-reflex
-GitHub
-drive hojas de calculo
-Trello
+- flet
+- reflex
+
+- gitHub primer repositorio:
+
+https://github.com/RocioLobo/dessertHouse_LANDING.git
+
+- GitHub segundo repositorio:
+
+https://github.com/RocioLobo/dessertHouse_app.git
+
+- drive hojas de calculo:
+
+https://docs.google.com/spreadsheets/d/1wj1qvm4EFdoe0sAfWc6xaShGvN_2KpTN5ixZTTavCgA/edit?usp=sharing
+
+- Trello:
+
 https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acaca1812d1d6BF89DAD6/desserthouse
-Figma
-capcut
-TikTok
+
+- Figma
+- capcut
+- TikTok
+- Notion
+
+- Exalidraw:
+
+https://excalidraw.com/#json=XvrhCJElDojUkaAV1q_36,BgwxCh6Izm36bcbgsHIgiw
 
 ## Arquitectura
 
