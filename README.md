@@ -52,6 +52,7 @@ https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acac
 - Figma
 - capcut
 - TikTok
+- google docs
 - Notion
 
 - dbdiagram:
