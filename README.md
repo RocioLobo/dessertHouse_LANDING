@@ -49,10 +49,13 @@ https://docs.google.com/spreadsheets/d/1wj1qvm4EFdoe0sAfWc6xaShGvN_2KpTN5ixZTTav
 
 https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acaca1812d1d6BF89DAD6/desserthouse
 
-- Figma
+- Figma:
+
+https://www.figma.com/design/XIRWIk5Jk5NrJreJu9dcuH/Untitled?node-id=0-1&t=tb9pdAhQTCOomGU5-1
+
+
 - capcut
 - TikTok
-- google docs
 - Notion
 
 - dbdiagram:
