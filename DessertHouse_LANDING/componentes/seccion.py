@@ -5,7 +5,7 @@ import reflex as rx
 def seccion()->rx.Component:
   return rx.vstack(
       rx.heading(
-        rx.text.span("DessertHouse",color=rx.color("plum",10)),
+        rx.text.span("DessertHouse",color=rx.color("sky",10)),
         " podras hacer postres con ingredientes a la mano",size="9"),
 
       rx.container(
@@ -19,7 +19,7 @@ def seccion()->rx.Component:
           alt="mi imagen",
           width="200px",
           margin_top="2em",
-          align_items="center"
+          align_items="right"
           ),
           spacing="3"
         ),
@@ -31,7 +31,7 @@ def seccion()->rx.Component:
             position="relative",
       ),
       rx.image(
-        src="",
+        src="https://i.pinimg.com/originals/ac/df/a4/acdfa4792e7ea15b2bcafb07d9167160.png",
         width="300px",
         position="absolute",
         bottom="0",
