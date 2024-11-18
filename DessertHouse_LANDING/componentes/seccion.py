@@ -41,5 +41,5 @@ def seccion()->rx.Component:
       align="center",
       text_align="center",
       height="676px",
-      background=rx.color("orange",6)
+      background=rx.color("purple",6)
   )

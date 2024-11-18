@@ -54,8 +54,10 @@ https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acac
 https://www.figma.com/design/XIRWIk5Jk5NrJreJu9dcuH/Untitled?node-id=0-1&t=tb9pdAhQTCOomGU5-1
 
 
-- capcut
-- TikTok
+- google doc:
+
+https://docs.google.com/forms/d/e/1FAIpQLSc4zlDzqcbe6yjwuCRnY-KaioEsyT_5JKm6vw67Rr4Vv0XmPg/viewform?usp=sf_link
+
 - Notion
 
 - dbdiagram:
