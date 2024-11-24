@@ -78,4 +78,4 @@ Arquitectura mvc
 
 ## Metodologia de trabajo
 - LEAN  
-- trallo para organizar mis tareas.
+- trello para organizar mis tareas.
