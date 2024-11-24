@@ -30,8 +30,8 @@ Muchas personas quieren aprender a preparar postres ,pero al momento de buscar r
 
 
 ## Tecnologias
-- flet
-- reflex
+- flet: git hub visualcode
+- reflex:github visual code
 
 - gitHub primer repositorio:
 
@@ -54,11 +54,13 @@ https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acac
 https://www.figma.com/design/XIRWIk5Jk5NrJreJu9dcuH/Untitled?node-id=0-1&t=tb9pdAhQTCOomGU5-1
 
 
-- google doc:
+- google doc form de registro:
 
 https://docs.google.com/forms/d/e/1FAIpQLSc4zlDzqcbe6yjwuCRnY-KaioEsyT_5JKm6vw67Rr4Vv0XmPg/viewform?usp=sf_link
 
-- Notion
+- google docs documentacion:
+https://docs.google.com/document/d/1Br6Z_kFxT1PFG8Lz79hRLDZjfoWg5Rf90uFlzI0uPoQ/edit?usp=sharing
+
 
 - dbdiagram:
 
@@ -75,4 +77,5 @@ Arquitectura mvc
 
 
 ## Metodologia de trabajo
-LEAN
+- LEAN  
+- trallo para organizar mis tareas.
