@@ -41,7 +41,7 @@ https://github.com/RocioLobo/dessertHouse_LANDING.git
 
 https://github.com/RocioLobo/dessertHouse_app.git
 
-- drive hojas de calculo:
+- drive hojas de calculo historias de usuario:
 
 https://docs.google.com/spreadsheets/d/1wj1qvm4EFdoe0sAfWc6xaShGvN_2KpTN5ixZTTavCgA/edit?usp=sharing
 
@@ -69,6 +69,9 @@ https://dbdiagram.io/d/67257082b1b39dd85837eeff
 - Exalidraw:
 
 https://excalidraw.com/#json=XvrhCJElDojUkaAV1q_36,BgwxCh6Izm36bcbgsHIgiw
+
+- Canva logo:
+https://www.canva.com/design/DAGXfUIByVk/qKjNe-LqThOcJvesLIkz3w/edit?utm_content=DAGXfUIByVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Arquitectura
 
