@@ -53,6 +53,9 @@ https://trello.com/invite/b/67238830fd1c86ce3eb0b579/ATTI29628526a504106e998acac
 
 https://www.figma.com/design/XIRWIk5Jk5NrJreJu9dcuH/Untitled?node-id=0-1&t=tb9pdAhQTCOomGU5-1
 
+- figma guia de landing page:
+https://trello.com/c/ys6JcsTS/18-crear-mi-landing-page-guia
+
 
 - google doc form de registro:
 
